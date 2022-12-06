@@ -57,10 +57,10 @@ with open('style/style.css') as css:
 with st.container():
     st.image("images/mapysmile.png")
     
-    link_to_home = 'http://localhost:8501/'
-    link_to_live ='http://localhost:8501/check_on_live'
-    link_to_plan ='http://localhost:8501/plan_your_trip'
-    link_to_correlation ='http://localhost:8501/distribution_graph'
+    link_to_home = 'https://karimdevweb-mappysmile-bord-eau-accueil-mt8rru.streamlit.app/'
+    link_to_live ='https://karimdevweb-mappysmile-bord-eau-accueil-mt8rru.streamlit.app/check_on_live'
+    link_to_plan ='https://karimdevweb-mappysmile-bord-eau-accueil-mt8rru.streamlit.app/plan_your_trip'
+    link_to_correlation ='https://karimdevweb-mappysmile-bord-eau-accueil-mt8rru.streamlit.app/distribution_graph'
 
     st.markdown(f"<div class='menu_div'>\
                     <a target='_self' href='{link_to_home}' class='menu_link'><div class='button_div'> Accueil</div></a>\
