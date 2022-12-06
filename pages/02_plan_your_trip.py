@@ -85,7 +85,7 @@ with st.container():
                     <a target='_self' href='{link_to_home}' class='menu_link'><div class='button_div'> Accueil</div></a>\
                     <a target='_self' href='{link_to_live}' class='menu_link live_transport  '><div class='button_div'>Live Transport</div></a>\
                     <a target='_self' href='{link_to_plan}' class='menu_link planning_transport selected_menu'><div class='button_div'>Palnning a trip</div></a>\
-                    <a target='_self' href='{link_to_correlation}' class='menu_link correlation'><div class='button_div'>accueil</div></a>\
+                    <a target='_self' href='{link_to_correlation}' class='menu_link correlation'><div class='button_div'>Distribution</div></a>\
                 </div>",
                 unsafe_allow_html=True)
 
