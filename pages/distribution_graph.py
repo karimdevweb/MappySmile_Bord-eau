@@ -55,7 +55,7 @@ with open('style/style.css') as css:
 
 
 with st.container():
-    st.image("images/mapysmile.png")
+    st.image("images/mappysmile.png")
     
     link_to_home = 'https://karimdevweb-mappysmile-bord-eau-accueil-mt8rru.streamlit.app/accueil'
     link_to_live ='https://karimdevweb-mappysmile-bord-eau-accueil-mt8rru.streamlit.app/check_on_live'
