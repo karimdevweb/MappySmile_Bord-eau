@@ -41,7 +41,7 @@ with open('style/style.css') as css:
 # create the menu container
 
 with st.container():
-    st.image("images/mapysmile.png")
+    st.image("images/mappysmile.png")
     
     
     
